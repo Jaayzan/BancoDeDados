@@ -36,12 +36,6 @@ ementa          varchar2(4000)  not null,
 codigo_disc_dependencia number  not null
 );
 
-select count(1) from telefones;
-select count(1) from alunos;
-select count(1) from alunos_ofertas;
-select count(1) from ofertas;
-select count(1) from professores;
-select count(1) from disciplinas;
 
 
 
